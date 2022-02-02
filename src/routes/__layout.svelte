@@ -18,6 +18,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        padding: 5.3125rem 1rem;
     }
     footer {
         display: none;
